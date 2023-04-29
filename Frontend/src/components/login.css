@@ -1,0 +1,33 @@
+body {
+    background: #304352;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    background: #304352;
+    margin-top: 90px;
+    background: -webkit-linear-gradient(to right, #d7d2cc);
+    background: linear-gradient(to right, #a59d92, #3b586e);
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.btnlogin{
+    margin-bottom: 10px;
+
+}
+
+.unlogin {
+    margin-right: 120px;
+}
+
+.passlogin {
+    margin-right: 130px;
+}

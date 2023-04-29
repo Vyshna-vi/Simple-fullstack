@@ -1,0 +1,50 @@
+.boxsignup {
+    background: #304352;
+    background: -webkit-linear-gradient(to right, #d7d2cc);
+    background: linear-gradient(to right, #a59d92, #3b586e);
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+    margin-top: 65px;
+}
+
+.signhead {
+    /* margin-top: 10px; */
+    margin-bottom: 0;
+}
+
+.username {
+    margin-right: 120px;
+    margin-bottom: 0;
+}
+
+.password {
+    margin-right: 130px;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+
+.confirmpass {
+    margin-right: 60px;
+    margin-top: 0px;
+    margin-bottom: 5;
+}
+
+.email {
+    margin-right: 160px;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+
+.btnsignin{
+    /* border: 1px solid ; */
+    width: 220px;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-bottom: 50px; */
+    margin-top: 40px;
+}
